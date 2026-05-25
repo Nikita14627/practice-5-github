@@ -1,0 +1,12 @@
+Практическая работа №5: организация репозитория в GitHub
+
+Назначение проекта:
+Данный набор файлов подготовлен для загрузки в учебный репозиторий GitHub.
+Репозиторий демонстрирует работу с разными типами файлов, ветвями проекта и коммитами.
+
+Распределение по ветвям:
+- main: project_description.txt и README.md;
+- feature-code: test_data_generator.py;
+- feature-docs: test_cases_example.docx и testing_summary.pdf;
+- feature-media: repository_structure.jpg.
+
